@@ -241,4 +241,4 @@ For issues or questions, please check the code comments or review the API docume
 
 ---
 
-**Made with ❤️ using Node.js + Express + Vanilla JavaScript**
+**Made with  using Node.js + Express + Vanilla JavaScript**
